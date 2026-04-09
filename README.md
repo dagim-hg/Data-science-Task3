@@ -36,7 +36,7 @@ A clean and structured dataset was successfully created and displayed.
 
 ## 📌 Dataset
 
-The Titanic dataset (`train.csv`) is used to analyze passenger survival patterns.
+The Titanic dataset (`Titanic-Dataset.csv`) is used to analyze passenger survival patterns.
 
 ---
 
